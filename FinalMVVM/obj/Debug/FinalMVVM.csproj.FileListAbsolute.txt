@@ -1,0 +1,48 @@
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\bin\Debug\FinalMVVM.exe.config
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\bin\Debug\FinalMVVM.exe
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\bin\Debug\FinalMVVM.pdb
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.csprojAssemblyReference.cache
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\obj\Debug\MainWindow.g.cs
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\obj\Debug\App.g.cs
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM_MarkupCompile.cache
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM_MarkupCompile.lref
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\obj\Debug\MainWindow.baml
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.g.resources
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.Properties.Resources.resources
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.csproj.GenerateResource.cache
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.csproj.CoreCompileInputs.cache
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.exe
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.pdb
+D:\Documents\IFTS18\Ingenieria de Software\repos\FinalMVVM\FinalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\bin\Debug\FinalMVVM.exe.config
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\bin\Debug\FinalMVVM.exe
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\bin\Debug\FinalMVVM.pdb
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\App.g.cs
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM_MarkupCompile.cache
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM_MarkupCompile.lref
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\MainWindow.baml
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.g.resources
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.Properties.Resources.resources
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.exe
+C:\Users\Julian\source\repos\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.pdb
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\bin\Debug\FinalMVVM.exe.config
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\bin\Debug\FinalMVVM.exe
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\bin\Debug\FinalMVVM.pdb
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.csprojAssemblyReference.cache
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\App.g.cs
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM_MarkupCompile.cache
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM_MarkupCompile.lref
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\MainWindow.baml
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.g.resources
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.Properties.Resources.resources
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.csproj.GenerateResource.cache
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.csproj.CoreCompileInputs.cache
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.exe
+C:\Users\dbmsoft8\Desktop\final\FinalMVVM\FinalMVVM\FinalMVVM\obj\Debug\FinalMVVM.pdb
